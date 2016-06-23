@@ -9,6 +9,10 @@
   "keywords": [
     "babel"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newraina/babel-preset-es2015-co"
+  },
   "author": "newraina",
   "license": "ISC",
 
