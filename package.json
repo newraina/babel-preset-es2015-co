@@ -17,6 +17,7 @@
   "author": "newraina",
   "license": "ISC",
   "dependencies": {
+    "babel-plugin-transform-async-to-module-method": "^6.8.0",
     "babel-preset-es2015": "^6.14.0",
     "modify-babel-preset": "^3.0.0",
     "co": "^4.6.0"
