@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-co",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "babel-preset-es2015 minus regenerator plus async-to-module-method (co).",
   "main": "index.js",
   "scripts": {
